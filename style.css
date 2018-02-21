@@ -353,3 +353,29 @@ section:last-child {
 	-moz-animation-delay: 0, 2.5s;
 	animation-delay: 0, 2.5s;
 }
+
+.xpItem {
+	margin-left: 20px;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+ul.no_bullet {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+span.check {
+	background: url('images/leaf_icon.jpg') no-repeat left top;
+	height: 54px;
+	padding-left: 44px;
+	padding-top: 3px;
+}
+
+span.trophy {
+	background: url('images/trophy-xxl.png') no-repeat left top;
+	height: 20px;
+	padding-left: 5px;
+	padding-top: 3px;
+}
