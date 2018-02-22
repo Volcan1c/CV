@@ -367,10 +367,11 @@ ul.no_bullet {
 	margin-bottom: 20px;
 }
 
-img {
+img.bullet {
 	float: left;
 	height: 15px;
 	padding-top: 3px;
+	opacity: 0.7;
 }
 
 .miniTitles {
